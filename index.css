@@ -1,4 +1,6 @@
 div {
+    font-size: 30px;
+    text-align: center;
     border-style: inset;
     border-bottom: double;
     border-width: 5px;
