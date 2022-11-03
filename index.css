@@ -1,3 +1,6 @@
 div {
-    border-radius: 10px;
+    border-style: inset;
+    border-bottom: double;
+    border-width: 5px;
+    padding: 5px;
 }
